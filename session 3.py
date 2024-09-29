@@ -114,7 +114,7 @@ for course_id, course_name in courses:
     eif user_input == [0-quit]
     print("course ID is out of range, please type in from 1-15 or 0 or quit if you want to quit")
 else:
-    print("the variable [0] has been used to exit]")
+    print("the variable [0] has been used to exit the program]")
     
     
     
